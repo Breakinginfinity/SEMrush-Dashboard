@@ -14,6 +14,9 @@ This project visualizes and analyzes SEMrush data to:
 
 The dashboard was designed with **usability and automation in mind**, allowing for regular updates with minimal effort.
 
+![image](https://github.com/user-attachments/assets/419ba875-db77-40b6-b6bc-6b1ae07fff27)
+
+
 ---
 
 ## 🔍 Key Features
